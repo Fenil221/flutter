@@ -58,8 +58,8 @@ dev_dependencies:
 flutter:
   assets:
     - assets\audio.WAV
-    - assets\we.txt
-    - assets\k.json
+    - assets\fenil.txt
+    - assets\fenil1.json
     - assets\new-logo.png
 
   # The following line ensures that the Material Icons font is
